@@ -18,9 +18,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <<<<<<< HEAD
 <img src="http://g.recordit.co/1ZlsKTLJek.gif" width=250><br>
-=======
-<img src="http://g.recordit.co/k8pru1ATmo.gif" width=250><br>
->>>>>>> bf227a64a850a052ba2d09db96fb2b8fb2cb2b9c
 
 ### Notes
 When I did the first part of part 2, I didn't have any problems, but while creating my collection view, I encountered a few issues.
